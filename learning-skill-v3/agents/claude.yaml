@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习助手 v3"
+  short_description: "全能学习助手：初始化学习主题、生成课程卡/知识点清单，并建立个人知识库结构。"
+  default_prompt: "我想学一个新主题，请帮我初始化学习环境。"
